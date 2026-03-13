@@ -29,7 +29,7 @@ public class StockMap
    {
       // Put a mapping into the map. The stock
       // symbol is the key.
-      map.put(stock.getSymbol(), stock):
+      map.put(stock.getSymbol(), stock);
    }
    
    /**
