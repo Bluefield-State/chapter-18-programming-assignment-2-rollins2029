@@ -6,7 +6,7 @@ import java.util.*;
 
 public class StockMap
 {
-
+   private Map<String, Stock> map;
 
 
    
@@ -16,7 +16,7 @@ public class StockMap
    
    public StockMap()
    {
-
+      map = new HashMap<>();
    }
    
    /**
